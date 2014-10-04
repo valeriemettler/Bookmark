@@ -13,3 +13,5 @@ config/application.yml
 config/application.example.yml
 
 <tt>rake doc:app</tt>.
+
+![todo](https://cloud.githubusercontent.com/assets/5564265/4513985/1f8cfa88-4b59-11e4-8d8e-367a69273a96.jpg)
